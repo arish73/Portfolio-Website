@@ -4,6 +4,7 @@ import './App.css';
 // Components
 import Navbar from './Components/navbar';
 import HeroSection from './Components/hero-section'
+import Skills from './Components/skills'
 
 const App = () => {
   return (
@@ -11,6 +12,10 @@ const App = () => {
       <Navbar />
       <section>
         <HeroSection />
+      </section>
+
+      <section>
+        <Skills />
       </section>
 
     </div>
