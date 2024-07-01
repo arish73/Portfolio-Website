@@ -1,8 +1,19 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+
+
+
+
+/* index.css or App.css */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.outline-text {
+  -webkit-text-stroke: 2px black;
+  color: white;
+  text-stroke: 2px black;
 }
 
 .logo {

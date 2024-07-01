@@ -3,7 +3,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <nav className="navbar relative container mx-auto">
+    <nav className="navbar relative container mx-auto mt-10">
       {/* flex container */}
       <div className="flex items-center justify-between">
         <div>
