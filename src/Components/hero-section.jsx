@@ -14,7 +14,7 @@ const HeroSection = () => {
             </div>
             
 
-            <p className="text-lg mt-6 mx-auto font-mono ">Creatively inclined and dedicated 
+            <p className="text-lg mt-6 mx-auto font-mono ">Creatively inclined & dedicated 
                 with a solid foundation in modern web technologies, 
                 focused on crafting seamless, user-friendly & high-performance applications 
                 </p>
