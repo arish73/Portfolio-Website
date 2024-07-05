@@ -56,7 +56,7 @@ const Skills = () => {
         <h2 className="text-4xl font-semibold">Skills</h2>
       </div>
 
-      <div className="flex flex-wrap justify-center items-center mt-12 gap-4">
+      <div className="flex flex-wrap justify-center items-center mt-12 mx-auto">
         {techLinks.map((item, index) => (
           <div
             key={index}
