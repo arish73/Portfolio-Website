@@ -14,29 +14,29 @@ const App = () => {
   return (
     <div className="App">
       <Navbar />
-      <section>
+      <section id='Hero'>
         <HeroSection />
       </section>
 
-      <section>
+      <section id='Skills'>
         <Skills />
       </section>
 
-      <section>
+      <section id='Experience'>
         <Experience />
       </section>
 
 
 
-      <section>
+      <section id='AboutMe'>
         <AboutMe />
       </section>
 
-      <section>
+      <section id='Projects'>
         <Projects />
       </section>
 
-      <section>
+      <section id='ContactMe'>
         <ContactMe />
       </section>
 

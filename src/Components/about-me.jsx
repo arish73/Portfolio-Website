@@ -42,12 +42,14 @@ const AboutMe = () => {
             <div className='text-center'>
                 <h2 className="text-4xl font-semibold mb-8">About Me</h2>
             </div>
-          <p className=' text-xl text-justify m-10 my-5 '>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          <p className=' text-lg font-medium text-justify m-10 my-5 '>
+          I'm a full stack developer, lately focusing on the MERN stack, particularly React and Express, though I frequently switch databases based on project requirements.
+          My journey as a web developer began in 2022 when I was hired at Tata 1mg as a backend developer. This experience plunged me headfirst into the world of coding and web development. Soon after, I decided to pursue my master's degree abroad in Canada, further solidifying my passion and expertise in this field.
           </p>
 
-          <p className='text-xl text-justify my-5 m-10 '>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          <p className='text-lg font-medium text-justify my-5 m-10 '>
+          Currently, I'm building cutting-edge web applications using modern technologies such as Next.js, TypeScript, NestJS, TailwindCSS, Supabase, and much more. I'm actively looking for a role where I can leverage these skills to create impactful and innovative solutions.
+          When I'm not in full-on developer mode, I enjoy working out, improving my guitar skills, getting better at art, reading books and manga, or indulging in the occasional gaming session.
           </p>
         </div>
       </div>
