@@ -6,6 +6,9 @@ import Navbar from './Components/navbar';
 import HeroSection from './Components/hero-section'
 import Skills from './Components/skills'
 import Experience from './Components/experience';
+import AboutMe from './Components/about-me';
+import ContactMe from './Components/contact-me';
+import Projects from './Components/projects';
 
 const App = () => {
   return (
@@ -21,6 +24,20 @@ const App = () => {
 
       <section>
         <Experience />
+      </section>
+
+
+
+      <section>
+        <AboutMe />
+      </section>
+
+      <section>
+        <Projects />
+      </section>
+
+      <section>
+        <ContactMe />
       </section>
 
     </div>
