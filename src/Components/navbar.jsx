@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar relative container mx-auto mt-10">
       {/* flex container */}
       <div className="flex items-center justify-between">
-        <div>
+        <div className='alex-brush-regular font-bold'>
         ArishIzhar        </div>
       
       {/* menu items */}

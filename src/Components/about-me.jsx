@@ -25,7 +25,7 @@
 
 // export default AboutMe;
 
-
+// og
 import React from 'react';
 import { BackgroundBeams } from './ui/background-beams';
 
@@ -35,7 +35,7 @@ const AboutMe = () => {
       <BackgroundBeams className="absolute inset-0 z-0" />
       <div className='relative z-10 mt-10 flex flex-col md:flex-row mx-10 items-center'>
         <div className='image w-full md:w-1/3'>
-          <img src="src/assets/aboutme.svg" alt="about me image" className="w-full" />   
+          <img src="src/assets/aboutme.svg" alt="about me image" className="w-full transition-transform duration-300 hover:scale-110" />   
         </div>
 
         <div className='w-full md:w-2/3 md:pl-10'>
@@ -56,3 +56,10 @@ const AboutMe = () => {
 };
 
 export default AboutMe;
+
+
+
+
+
+
+

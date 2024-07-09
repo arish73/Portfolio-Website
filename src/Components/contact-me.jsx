@@ -20,8 +20,8 @@ const ContactMe = () => {
     // Overall main div
     <div>
             {/* Heading div */}
-            <div className='text-center m-10'>
-                <h2 className="text-4xl font-semibold mb-8">Contact Me</h2>
+            <div className='text-center m-10 mt-0 pt-0'>
+                <h2 className="text-4xl font-semibold mb-8 mt-0">Contact Me</h2>
             </div>
     
     {/* Form and contact me call div */}
@@ -137,7 +137,7 @@ const ContactMe = () => {
         {/* Footer */}
     <div className='bg-black flex justify-between text-white items-center p-4'>
     <div className="flex-1">
-        <h1>Arish Izhar</h1>
+        <h1 className='alex-brush-regular font-bold'>Arish Izhar</h1>
     </div>
     <div className='flex flex-col items-end space-y-1'>
         <div>
