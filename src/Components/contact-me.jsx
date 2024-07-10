@@ -96,7 +96,7 @@ const ContactMe = () => {
             <a href="https://github.com/arish73" target="_blank" rel="noopener noreferrer" className="w-12 h-12 flex items-center justify-center text-4xl border-2 p-2 border-black rounded-lg hover:bg-black hover:text-white transition duration-300">
               <i className="devicon-github-original"></i>
             </a>
-            <a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 flex items-center justify-center text-4xl border-2 p-2 border-black rounded-lg hover:bg-black hover:text-white transition duration-300">
+            <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 flex items-center justify-center text-4xl border-2 p-2 border-black rounded-lg hover:bg-black hover:text-white transition duration-300">
               <i className="fa-brands fa-linkedin"></i>
             </a>
             <a href="mailto:izhar.arish@gmail.com" className="w-12 h-12 flex items-center justify-center text-4xl border-2 p-2 border-black rounded-lg hover:bg-black hover:text-white transition duration-300">
