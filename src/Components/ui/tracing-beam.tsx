@@ -120,7 +120,7 @@ export const TracingBeam = ({
           </defs>
         </svg>
       </div>
-      <div ref={contentRef} className="ml-10 md:ml-20">{children}</div>
+      <div ref={contentRef} className="ml-10 md:ml-10">{children}</div>
     </motion.div>
   );
 };

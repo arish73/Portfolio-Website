@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
+import { ResumeButton } from './resume-button';
 
 const Navbar = () => {
   return (
@@ -55,11 +56,13 @@ const Navbar = () => {
         </div>
 
         {/* Download resume button */}
-        <a href="/resume.pdf" 
+        {/* <a href="/resume.pdf" 
           target="_blank" 
           rel="noopener noreferrer" className="text-white text-xl bg-black rounded px-5 py-2 hover:bg-white hover:text-black focus:outline-none focus:ring-7 focus:ring-blue-600 focus:ring-opacity-50 hover:ring-2 hover:ring-black transition delay-50">
           <i className="fa-solid fa-download px-1"></i> Resume
-        </a>
+        </a> */}
+
+        <ResumeButton/>
 
       </div>
     </nav>
