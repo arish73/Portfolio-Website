@@ -107,18 +107,6 @@ const ContactMe = () => {
       </div>
       
     </form>
-    {/* Logos div
-    <div className="socials flex flex-row space-x-5 mt-6 items-center justify-center">
-            <a href="https://github.com/arish73" target="_blank" rel="noopener noreferrer" className="w-12 h-12 flex items-center justify-center text-4xl border-2 p-2 border-black rounded-lg hover:bg-black hover:text-white transition duration-300">
-              <i className="devicon-github-original"></i>
-            </a>
-            <a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 flex items-center justify-center text-4xl border-2 p-2 border-black rounded-lg hover:bg-black hover:text-white transition duration-300">
-              <i className="fa-brands fa-linkedin"></i>
-            </a>
-            <a href="mailto:izhar.arish@gmail.com" className="w-12 h-12 flex items-center justify-center text-4xl border-2 p-2 border-black rounded-lg hover:bg-black hover:text-white transition duration-300">
-              <i className="fa-solid fa-envelope"></i>
-            </a>
-    </div> */}
 
     </div>
 
