@@ -49,7 +49,7 @@ const AboutMe = () => {
 
           <p className='text-lg font-medium text-justify my-5 m-10 '>
           Currently, I'm building cutting-edge web applications using modern technologies while also dabbling with and learning other technologies such as Next.js, TypeScript, NestJS, Supabase, and much more. I'm actively looking for a role where I can leverage these skills to create impactful and innovative solutions.
-          When I'm not in full-on developer mode, I enjoy working out, improving my guitar skills, getting better at art, reading books & manga, or indulging in the occasional yet lengthy gaming session.
+          When I'm not in full-on developer mode and not at my desk programming, I'm working out, improving my guitar skills, getting better at art, reading books & manga, or indulging in the occasional yet lengthy gaming session.
           </p>
         </div>
       </div>

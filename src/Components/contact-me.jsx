@@ -139,12 +139,12 @@ const ContactMe = () => {
     <div className="flex-1">
         <h1 className='alex-brush-regular font-bold'>Arish Izhar</h1>
     </div>
-    <div className='flex flex-col items-end space-y-1'>
+    <div className='flex flex-col items-end space-y-1 font-mono'>
         <div>
         <h1>Loosely designed in Figma & deployed via netlify</h1>
         </div>
         <div>
-        <h1>Made using React, TailwindCSS, FramerMotion & AternityUI animations</h1>
+        <h1>Made using React, Tailwind, FramerMotion & AternityUI</h1>
         </div>
     </div>
     </div>
