@@ -41,7 +41,7 @@ const HeroSection = () => {
         </div>
 
         <div className="image flex-shrink-0 relative mb-8 md:mb-0 ">
-          <img src="/public/f200.svg" alt="image" className="block mx-auto" />
+          <img src="public/f200.svg" alt="image" className="block mx-auto" />
           <div className="line absolute bottom-0 left-0 w-full h-1 bg-black md:w-[140%] md:left-[-20%] lg:w-[160%] lg:left-[-50%]"></div>
         </div>
       </div>

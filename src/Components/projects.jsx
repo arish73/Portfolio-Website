@@ -9,7 +9,7 @@ const projectData = [
         Utilized Flask and Python for backend development, integrating with MongoDB for database management.`,
         github: 'google.com',
         deployed: 'google.com',
-        image: '/src/assets/placeholder-project.svg'
+        image: 'public/placeholder-project.svg'
     },
     { 
         number: '02', 
@@ -18,7 +18,7 @@ const projectData = [
         Utilized Flask and Python for backend development, integrating with MongoDB for database management.`,
         github: 'google.com',
         deployed: 'google.com',
-        image: '/src/assets/placeholder-project.svg'
+        image: './public/placeholder-project.svg'
     },
     { 
         number: '03', 
@@ -27,7 +27,7 @@ const projectData = [
         Utilized Flask and Python for backend development, integrating with MongoDB for database management.`,
         github: 'https://github.com/arish73/Portfolio-Website',
         deployed: 'google.com',
-        image: '/src/assets/placeholder-project.svg'
+        image: '/public/placeholder-project.svg'
     },
 ];
 
