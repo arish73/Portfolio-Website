@@ -9,7 +9,7 @@ const projectData = [
         Utilized Flask and Python for backend development, integrating with MongoDB for database management.`,
         github: 'google.com',
         deployed: 'google.com',
-        image: 'public/placeholder-project.svg'
+        image: '/placeholder-project.svg'
     },
     { 
         number: '02', 
@@ -18,7 +18,7 @@ const projectData = [
         Utilized Flask and Python for backend development, integrating with MongoDB for database management.`,
         github: 'google.com',
         deployed: 'google.com',
-        image: './public/placeholder-project.svg'
+        image: '/placeholder-project.svg'
     },
     { 
         number: '03', 
@@ -27,7 +27,7 @@ const projectData = [
         Utilized Flask and Python for backend development, integrating with MongoDB for database management.`,
         github: 'https://github.com/arish73/Portfolio-Website',
         deployed: 'google.com',
-        image: '/public/placeholder-project.svg'
+        image: '/placeholder-project.svg'
     },
 ];
 
@@ -50,11 +50,11 @@ const Projects = () => {
                             <p className='font-mono mt-6'>{project.content}</p>
                             <a href={project.github} className="flex items-center p-2 mt-4 rounded-lg hover:bg-gray-100 hover:bg-opacity-30 w-fit">
                                 <span className='pr-4 font-mono'>GitHub</span>
-                                <img src="src/assets/linklogo.svg" alt="linklogo" />
+                                <img src="/linklogo.svg" alt="linklogo" />
                             </a>
                             <a href={project.deployed} className="flex items-center p-2 mt-2 rounded-lg hover:bg-gray-100 hover:bg-opacity-30 w-fit">
                                 <span className='pr-4 font-mono'>Live Demo</span>
-                                <img src="src/assets/linklogo.svg" alt="linklogo" />
+                                <img src="/linklogo.svg" alt="linklogo" />
                             </a>
                         </div>
                     </div>
