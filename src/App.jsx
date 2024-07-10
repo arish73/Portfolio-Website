@@ -47,6 +47,13 @@ const App = () => {
 export default App;
 
 
+
+
+
+
+
+
+
 // import React from 'react';
 // import './App.css';
 
@@ -62,13 +69,13 @@ export default App;
 
 // const App = () => {
 //   return (
-//     <TracingBeam className="App">
+//     <TracingBeam className="App p-0 m-0">
 //       <Navbar />
 //       <section>
 //         <HeroSection />
 //       </section>
 
-//       <section>
+//       <section id='Skills'>
 //         <Skills />
 //       </section>
 
@@ -92,3 +99,10 @@ export default App;
 // };
 
 // export default App;
+
+
+
+
+
+
+

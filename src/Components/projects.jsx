@@ -103,7 +103,7 @@ const projectData = [
 
 const Projects = () => {
     return (
-        <div className='text-white bg-black px-4 sm:px-6 lg:px-8 pt-16 mt-10'>
+        <div className='text-white bg-black px-4 sm:px-6 lg:px-8 pt-16 mt-10 pb-1'>
             <div className='flex justify-center mb-20'>
                 <h2 className="text-4xl font-semibold">Projects</h2>
             </div>

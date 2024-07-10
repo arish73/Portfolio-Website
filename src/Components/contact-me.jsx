@@ -20,7 +20,7 @@ const ContactMe = () => {
     // Overall main div
     <div>
             {/* Heading div */}
-            <div className='text-center m-10 mt-0 pt-0'>
+            <div className='text-center m-10 mt-0 pt-10'>
                 <h2 className="text-4xl font-semibold mb-8 mt-0">Contact Me</h2>
             </div>
     
