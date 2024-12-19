@@ -1,13 +1,16 @@
-
-
-
-
 /* index.css or App.css */
-body, html, #root {
+body,
+html,
+#root {
   margin: 0;
   padding: 0;
   width: 100%;
   height: 100%;
+}
+
+html,
+body {
+  overflow-x: hidden;
 }
 
 .outline-text {
@@ -57,4 +60,14 @@ body, html, #root {
 
 .read-the-docs {
   color: #888;
+}
+
+@media screen and (max-width: 600px) {
+  .timelineone {
+    margin: 50px auto;
+  }
+
+  .timelineone::after {
+    left: 100px;
+  }
 }
