@@ -52,7 +52,7 @@ const Experience = () => {
   };
 
   return (
-    <div className="relative bg-black text-white w-full mt-20 pt-8 mx-auto pb-20">
+    <div className="relative bg-black text-white w-full mt-20 pt-8 mx-auto pb-16">
       <h2 className="text-4xl font-semibold text-center mb-8">Experience</h2>
       <div className="w-full md:w-3/4 mx-auto">
         {/* Desktop Timeline */}
@@ -93,7 +93,7 @@ const Experience = () => {
         </div>
 
         {/* Mobile Timeline */}
-        <div className="block md:hidden container relative mx-auto p-6">
+        <div className="block md:hidden container relative mx-auto p-6 pb-0">
           <div className="absolute h-full border-l-2 border-gray-100"></div>
           {expList.map((exp, index) => (
             <div
